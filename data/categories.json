@@ -1,0 +1,114 @@
+[
+  {
+    "id": "c1",
+    "slug": "oud",
+    "name": {
+      "en": "Oud",
+      "ar": "عود",
+      "hi": "ऊद"
+    },
+    "icon": "🪵",
+    "image": "",
+    "description": "Deep, resinous oud from Assam and Cambodian agarwood.",
+    "order": 1,
+    "visible": true
+  },
+  {
+    "id": "c2",
+    "slug": "musk",
+    "name": {
+      "en": "Musk",
+      "ar": "مسك",
+      "hi": "मस्क"
+    },
+    "icon": "🤍",
+    "image": "",
+    "description": "Soft, skin-close white musks — the scent of clean prayer robes.",
+    "order": 2,
+    "visible": true
+  },
+  {
+    "id": "c3",
+    "slug": "rose",
+    "name": {
+      "en": "Rose",
+      "ar": "ورد",
+      "hi": "गुलाब"
+    },
+    "icon": "🌹",
+    "image": "",
+    "description": "Taifi and Damask rose, distilled the traditional way.",
+    "order": 3,
+    "visible": true
+  },
+  {
+    "id": "c4",
+    "slug": "amber",
+    "name": {
+      "en": "Amber",
+      "ar": "عنبر",
+      "hi": "अंबर"
+    },
+    "icon": "🍯",
+    "image": "",
+    "description": "Warm, honeyed amber and mukhallat blends.",
+    "order": 4,
+    "visible": true
+  },
+  {
+    "id": "c5",
+    "slug": "sandal-khus",
+    "name": {
+      "en": "Sandal & Khus",
+      "ar": "صندل وخس",
+      "hi": "चंदन व खस"
+    },
+    "icon": "🌿",
+    "image": "",
+    "description": "Cooling Mysore sandalwood and Kannauj khus.",
+    "order": 5,
+    "visible": true
+  },
+  {
+    "id": "c6",
+    "slug": "bakhoor",
+    "name": {
+      "en": "Bakhoor",
+      "ar": "بخور",
+      "hi": "बखूर"
+    },
+    "icon": "🔥",
+    "image": "",
+    "description": "Scented wood chips to perfume homes and gatherings.",
+    "order": 6,
+    "visible": true
+  },
+  {
+    "id": "c7",
+    "slug": "dhoop",
+    "name": {
+      "en": "Dhoop",
+      "ar": "دخون",
+      "hi": "धूप"
+    },
+    "icon": "🪔",
+    "image": "",
+    "description": "Dhoop cones and sticks — arriving soon.",
+    "order": 7,
+    "visible": true
+  },
+  {
+    "id": "c8",
+    "slug": "gift-sets",
+    "name": {
+      "en": "Gift Sets",
+      "ar": "أطقم الهدايا",
+      "hi": "उपहार सेट"
+    },
+    "icon": "🎁",
+    "image": "",
+    "description": "Hand-packed gift boxes for weddings, Eid and Diwali.",
+    "order": 8,
+    "visible": true
+  }
+]

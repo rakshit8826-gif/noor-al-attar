@@ -1,0 +1,68 @@
+[
+  {
+    "id": "t1",
+    "name": "Ayesha Khan",
+    "city": "Hyderabad",
+    "rating": 5,
+    "text": "Musk Al Haram is exactly what I wear to Jumu'ah. Soft, clean, and lasts the whole day. The packing was beautiful too.",
+    "avatar": "",
+    "verified": true,
+    "order": 1,
+    "visible": true
+  },
+  {
+    "id": "t2",
+    "name": "Rohit Malhotra",
+    "city": "Delhi",
+    "rating": 5,
+    "text": "Bought the Noor Gift Set for my brother's wedding. Everyone asked where it was from. Shukriya for the quick WhatsApp support!",
+    "avatar": "",
+    "verified": true,
+    "order": 2,
+    "visible": true
+  },
+  {
+    "id": "t3",
+    "name": "Farhan Siddiqui",
+    "city": "Lucknow",
+    "rating": 5,
+    "text": "Finally an oud that smells real. Royal Oud Al Malaki reminds me of my grandfather's attar box.",
+    "avatar": "",
+    "verified": true,
+    "order": 3,
+    "visible": true
+  },
+  {
+    "id": "t4",
+    "name": "Meera Nair",
+    "city": "Bengaluru",
+    "rating": 4,
+    "text": "Rose Taifi is gorgeous — not sharp like store perfumes. Delivery took 3 days.",
+    "avatar": "",
+    "verified": true,
+    "order": 4,
+    "visible": true
+  },
+  {
+    "id": "t5",
+    "name": "Zainab Patel",
+    "city": "Mumbai",
+    "rating": 5,
+    "text": "Ordered bakhoor for Eid and the whole house smelled divine. Will reorder for Diwali.",
+    "avatar": "",
+    "verified": true,
+    "order": 5,
+    "visible": true
+  },
+  {
+    "id": "t6",
+    "name": "Imran Qureshi",
+    "city": "Dubai (NRI)",
+    "rating": 5,
+    "text": "Sent gifts to my parents in Bhopal via WhatsApp — smooth and trustworthy.",
+    "avatar": "",
+    "verified": true,
+    "order": 6,
+    "visible": true
+  }
+]

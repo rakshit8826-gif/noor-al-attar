@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cp1",
+    "code": "DIWALI20",
+    "type": "percent",
+    "value": 20,
+    "minOrder": 1499,
+    "expiry": "2026-11-10",
+    "usageLimit": 500,
+    "active": true
+  },
+  {
+    "id": "cp2",
+    "code": "WELCOME10",
+    "type": "percent",
+    "value": 10,
+    "minOrder": 0,
+    "expiry": "2027-12-31",
+    "usageLimit": 0,
+    "active": true
+  }
+]

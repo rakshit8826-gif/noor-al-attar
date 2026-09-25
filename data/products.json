@@ -1,0 +1,954 @@
+[
+  {
+    "id": "p1",
+    "slug": "royal-oud-al-malaki",
+    "name": {
+      "en": "Royal Oud Al Malaki",
+      "ar": "عود الملكي",
+      "hi": "रॉयल ऊद अल मलिकी"
+    },
+    "sku": "NAA-001",
+    "category": "oud",
+    "collections": [
+      "diwali-gifting",
+      "wedding-favours",
+      "eid-collection",
+      "bestsellers"
+    ],
+    "tags": [
+      "bestseller",
+      "festive"
+    ],
+    "shortDescription": {
+      "en": "A regal Assam oud, aged for two winters, wrapped in saffron and rose."
+    },
+    "longDescription": {
+      "en": "Royal Oud Al Malaki is our signature — a slow-aged agarwood attar with the warmth of saffron and the quiet sweetness of Taifi rose. It opens boldly and settles into a resinous amber that lingers on clothes for days. Worn at weddings and Eid gatherings across Hyderabad and Lucknow."
+    },
+    "fragranceFamily": "oriental",
+    "gender": "unisex",
+    "occasions": [
+      "wedding",
+      "festive"
+    ],
+    "intensity": "strong",
+    "notes": {
+      "top": [
+        "Saffron",
+        "Bergamot"
+      ],
+      "heart": [
+        "Agarwood",
+        "Rose"
+      ],
+      "base": [
+        "Amber",
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    "variants": [
+      {
+        "size": "6ml",
+        "price": 1399,
+        "mrp": 1699,
+        "stock": 14
+      },
+      {
+        "size": "12ml",
+        "price": 2499,
+        "mrp": 2999,
+        "stock": 9
+      },
+      {
+        "size": "30ml",
+        "price": 5499,
+        "mrp": 6499,
+        "stock": 4
+      }
+    ],
+    "currency": "INR",
+    "images": [
+      {
+        "url": "/images/placeholder.svg",
+        "alt": "Royal Oud Al Malaki attar bottle"
+      }
+    ],
+    "seo": {
+      "title": "Royal Oud Al Malaki | Authentic Attar | Noor Al Attar",
+      "description": "A regal Assam oud, aged for two winters, wrapped in saffron and rose."
+    },
+    "status": "published",
+    "featured": true,
+    "bestseller": true,
+    "giftWrapAvailable": true,
+    "codAvailable": true,
+    "rating": 4.9,
+    "reviewCount": 214,
+    "createdAt": "2026-09-01T10:00:00.000Z",
+    "updatedAt": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "p2",
+    "slug": "musk-al-haram",
+    "name": {
+      "en": "Musk Al Haram",
+      "ar": "مسك الحرم",
+      "hi": "मस्क अल हरम"
+    },
+    "sku": "NAA-002",
+    "category": "musk",
+    "collections": [
+      "eid-collection",
+      "bestsellers"
+    ],
+    "tags": [
+      "bestseller"
+    ],
+    "shortDescription": {
+      "en": "Clean, alcohol-free white musk — soft enough for the masjid, lasting through Jumu'ah."
+    },
+    "longDescription": {
+      "en": "A quiet, skin-close musk in the tradition of the Haramain. Alcohol-free and gentle, it is the attar to reach for before prayer, or when you simply want to smell freshly bathed and cared for."
+    },
+    "fragranceFamily": "fresh",
+    "gender": "unisex",
+    "occasions": [
+      "prayer",
+      "daily"
+    ],
+    "intensity": "light",
+    "notes": {
+      "top": [
+        "White Tea",
+        "Cotton Flower"
+      ],
+      "heart": [
+        "White Musk",
+        "Jasmine"
+      ],
+      "base": [
+        "Soft Amber"
+      ]
+    },
+    "variants": [
+      {
+        "size": "3ml",
+        "price": 499,
+        "mrp": 599,
+        "stock": 40
+      },
+      {
+        "size": "6ml",
+        "price": 899,
+        "mrp": 1099,
+        "stock": 25
+      },
+      {
+        "size": "12ml",
+        "price": 1599,
+        "mrp": 1899,
+        "stock": 12
+      }
+    ],
+    "currency": "INR",
+    "images": [
+      {
+        "url": "/images/placeholder.svg",
+        "alt": "Musk Al Haram attar bottle"
+      }
+    ],
+    "seo": {
+      "title": "Musk Al Haram | Authentic Attar | Noor Al Attar",
+      "description": "Clean, alcohol-free white musk — soft enough for the masjid, lasting through Jumu'ah."
+    },
+    "status": "published",
+    "featured": true,
+    "bestseller": true,
+    "giftWrapAvailable": true,
+    "codAvailable": true,
+    "rating": 4.8,
+    "reviewCount": 356,
+    "createdAt": "2026-09-01T10:00:00.000Z",
+    "updatedAt": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "p3",
+    "slug": "rose-taifi-attar",
+    "name": {
+      "en": "Rose Taifi Attar",
+      "ar": "عطر الورد الطائفي",
+      "hi": "रोज़ ताइफ़ी अत्तर"
+    },
+    "sku": "NAA-003",
+    "category": "rose",
+    "collections": [
+      "wedding-favours",
+      "bestsellers",
+      "new-arrivals"
+    ],
+    "tags": [
+      "bestseller",
+      "new"
+    ],
+    "shortDescription": {
+      "en": "Dewy Taifi rose in a sandalwood base — romantic, never sharp."
+    },
+    "longDescription": {
+      "en": "Hand-distilled rose in copper degs, then rested in sandalwood oil. Fresh at first, then a deep, velvety rose that feels like a garden after rain."
+    },
+    "fragranceFamily": "floral",
+    "gender": "women",
+    "occasions": [
+      "daily",
+      "wedding"
+    ],
+    "intensity": "medium",
+    "notes": {
+      "top": [
+        "Rose Petals",
+        "Lychee"
+      ],
+      "heart": [
+        "Taifi Rose",
+        "Peony"
+      ],
+      "base": [
+        "Sandalwood",
+        "Musk"
+      ]
+    },
+    "variants": [
+      {
+        "size": "6ml",
+        "price": 999,
+        "mrp": 1199,
+        "stock": 20
+      },
+      {
+        "size": "12ml",
+        "price": 1799,
+        "mrp": 2199,
+        "stock": 15
+      }
+    ],
+    "currency": "INR",
+    "images": [
+      {
+        "url": "/images/placeholder.svg",
+        "alt": "Rose Taifi Attar attar bottle"
+      }
+    ],
+    "seo": {
+      "title": "Rose Taifi Attar | Authentic Attar | Noor Al Attar",
+      "description": "Dewy Taifi rose in a sandalwood base — romantic, never sharp."
+    },
+    "status": "published",
+    "featured": true,
+    "bestseller": true,
+    "giftWrapAvailable": true,
+    "codAvailable": true,
+    "rating": 4.9,
+    "reviewCount": 187,
+    "createdAt": "2026-09-01T10:00:00.000Z",
+    "updatedAt": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "p4",
+    "slug": "amber-al-qadeem",
+    "name": {
+      "en": "Amber Al Qadeem",
+      "ar": "عنبر القديم",
+      "hi": "अंबर अल क़दीम"
+    },
+    "sku": "NAA-004",
+    "category": "amber",
+    "collections": [],
+    "tags": [
+      "festive"
+    ],
+    "shortDescription": {
+      "en": "Honeyed old-world amber with a whisper of cardamom."
+    },
+    "longDescription": {
+      "en": "The scent of an old perfumer's shop — resin, honey and warm spice. Cozy in winter and beautiful over a plain cotton kurta."
+    },
+    "fragranceFamily": "oriental",
+    "gender": "unisex",
+    "occasions": [
+      "daily",
+      "festive"
+    ],
+    "intensity": "medium",
+    "notes": {
+      "top": [
+        "Cardamom"
+      ],
+      "heart": [
+        "Labdanum",
+        "Honey"
+      ],
+      "base": [
+        "Amber",
+        "Vanilla"
+      ]
+    },
+    "variants": [
+      {
+        "size": "6ml",
+        "price": 849,
+        "mrp": 999,
+        "stock": 22
+      },
+      {
+        "size": "12ml",
+        "price": 1499,
+        "mrp": 1799,
+        "stock": 18
+      }
+    ],
+    "currency": "INR",
+    "images": [
+      {
+        "url": "/images/placeholder.svg",
+        "alt": "Amber Al Qadeem attar bottle"
+      }
+    ],
+    "seo": {
+      "title": "Amber Al Qadeem | Authentic Attar | Noor Al Attar",
+      "description": "Honeyed old-world amber with a whisper of cardamom."
+    },
+    "status": "published",
+    "featured": false,
+    "bestseller": false,
+    "giftWrapAvailable": true,
+    "codAvailable": true,
+    "rating": 4.7,
+    "reviewCount": 98,
+    "createdAt": "2026-09-01T10:00:00.000Z",
+    "updatedAt": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "p5",
+    "slug": "white-oud",
+    "name": {
+      "en": "White Oud",
+      "ar": "العود الأبيض",
+      "hi": "व्हाइट ऊद"
+    },
+    "sku": "NAA-005",
+    "category": "oud",
+    "collections": [
+      "new-arrivals"
+    ],
+    "tags": [
+      "new"
+    ],
+    "shortDescription": {
+      "en": "A lighter, modern oud made for the office and everyday wear."
+    },
+    "longDescription": {
+      "en": "An easy-to-wear oud without the heaviness — bright citrus over pale woods. Ideal for people meeting oud for the first time."
+    },
+    "fragranceFamily": "woody",
+    "gender": "men",
+    "occasions": [
+      "office",
+      "daily"
+    ],
+    "intensity": "medium",
+    "notes": {
+      "top": [
+        "Citrus",
+        "Green Cardamom"
+      ],
+      "heart": [
+        "Light Oud",
+        "Cedar"
+      ],
+      "base": [
+        "White Musk"
+      ]
+    },
+    "variants": [
+      {
+        "size": "3ml",
+        "price": 749,
+        "mrp": 899,
+        "stock": 30
+      },
+      {
+        "size": "6ml",
+        "price": 1299,
+        "mrp": 1599,
+        "stock": 16
+      },
+      {
+        "size": "12ml",
+        "price": 2299,
+        "mrp": 2699,
+        "stock": 8
+      }
+    ],
+    "currency": "INR",
+    "images": [
+      {
+        "url": "/images/placeholder.svg",
+        "alt": "White Oud attar bottle"
+      }
+    ],
+    "seo": {
+      "title": "White Oud | Authentic Attar | Noor Al Attar",
+      "description": "A lighter, modern oud made for the office and everyday wear."
+    },
+    "status": "published",
+    "featured": true,
+    "bestseller": false,
+    "giftWrapAvailable": true,
+    "codAvailable": true,
+    "rating": 4.6,
+    "reviewCount": 74,
+    "createdAt": "2026-09-01T10:00:00.000Z",
+    "updatedAt": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "p6",
+    "slug": "bakhoor-al-noor-50g",
+    "name": {
+      "en": "Bakhoor Al Noor (50g)",
+      "ar": "بخور النور",
+      "hi": "बखूर अल नूर"
+    },
+    "sku": "NAA-006",
+    "category": "bakhoor",
+    "collections": [
+      "diwali-gifting",
+      "eid-collection",
+      "bestsellers"
+    ],
+    "tags": [
+      "festive",
+      "bestseller"
+    ],
+    "shortDescription": {
+      "en": "Oud-soaked wood chips for charcoal burners — fills a room in minutes."
+    },
+    "longDescription": {
+      "en": "Place a small chip on a lit charcoal disc and let the smoke drift through the room. Traditional bakhoor for Eid mornings, Diwali evenings and welcoming guests."
+    },
+    "fragranceFamily": "oriental",
+    "gender": "unisex",
+    "occasions": [
+      "festive",
+      "prayer"
+    ],
+    "intensity": "strong",
+    "notes": {
+      "top": [
+        "Oud Smoke"
+      ],
+      "heart": [
+        "Rose",
+        "Frankincense"
+      ],
+      "base": [
+        "Amber",
+        "Sandal"
+      ]
+    },
+    "variants": [
+      {
+        "size": "50g",
+        "price": 699,
+        "mrp": 849,
+        "stock": 35
+      },
+      {
+        "size": "100g",
+        "price": 1299,
+        "mrp": 1599,
+        "stock": 20
+      }
+    ],
+    "currency": "INR",
+    "images": [
+      {
+        "url": "/images/placeholder.svg",
+        "alt": "Bakhoor Al Noor (50g) attar bottle"
+      }
+    ],
+    "seo": {
+      "title": "Bakhoor Al Noor (50g) | Authentic Attar | Noor Al Attar",
+      "description": "Oud-soaked wood chips for charcoal burners — fills a room in minutes."
+    },
+    "status": "published",
+    "featured": true,
+    "bestseller": true,
+    "giftWrapAvailable": true,
+    "codAvailable": true,
+    "rating": 4.8,
+    "reviewCount": 141,
+    "createdAt": "2026-09-01T10:00:00.000Z",
+    "updatedAt": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "p7",
+    "slug": "sandal-safeed-attar",
+    "name": {
+      "en": "Sandal Safeed Attar",
+      "ar": "صندل سفيد",
+      "hi": "सैंडल सफ़ीद अत्तर"
+    },
+    "sku": "NAA-007",
+    "category": "sandal-khus",
+    "collections": [],
+    "tags": [],
+    "shortDescription": {
+      "en": "Creamy Mysore sandalwood — calm, meditative, lasts all day."
+    },
+    "longDescription": {
+      "en": "Distilled from aged Mysore sandalwood. A buttery, cooling attar that pairs with everything and never shouts."
+    },
+    "fragranceFamily": "woody",
+    "gender": "unisex",
+    "occasions": [
+      "daily",
+      "prayer"
+    ],
+    "intensity": "light",
+    "notes": {
+      "top": [
+        "Milky Sandal"
+      ],
+      "heart": [
+        "Mysore Sandalwood"
+      ],
+      "base": [
+        "Cedar",
+        "Musk"
+      ]
+    },
+    "variants": [
+      {
+        "size": "6ml",
+        "price": 799,
+        "mrp": 949,
+        "stock": 24
+      },
+      {
+        "size": "12ml",
+        "price": 1199,
+        "mrp": 1449,
+        "stock": 20
+      }
+    ],
+    "currency": "INR",
+    "images": [
+      {
+        "url": "/images/placeholder.svg",
+        "alt": "Sandal Safeed Attar attar bottle"
+      }
+    ],
+    "seo": {
+      "title": "Sandal Safeed Attar | Authentic Attar | Noor Al Attar",
+      "description": "Creamy Mysore sandalwood — calm, meditative, lasts all day."
+    },
+    "status": "published",
+    "featured": false,
+    "bestseller": false,
+    "giftWrapAvailable": true,
+    "codAvailable": true,
+    "rating": 4.7,
+    "reviewCount": 66,
+    "createdAt": "2026-09-01T10:00:00.000Z",
+    "updatedAt": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "p8",
+    "slug": "jannatul-firdaus",
+    "name": {
+      "en": "Jannatul Firdaus",
+      "ar": "جنة الفردوس",
+      "hi": "जन्नतुल फ़िरदौस"
+    },
+    "sku": "NAA-008",
+    "category": "rose",
+    "collections": [],
+    "tags": [],
+    "shortDescription": {
+      "en": "A garden-in-bloom floral: jasmine, rose and lily over soft musk."
+    },
+    "longDescription": {
+      "en": "Named for the gardens of paradise — bright, floral and gentle. A gift-worthy everyday attar."
+    },
+    "fragranceFamily": "floral",
+    "gender": "unisex",
+    "occasions": [
+      "daily"
+    ],
+    "intensity": "light",
+    "notes": {
+      "top": [
+        "Jasmine",
+        "Green Leaves"
+      ],
+      "heart": [
+        "Rose",
+        "Lily"
+      ],
+      "base": [
+        "White Musk"
+      ]
+    },
+    "variants": [
+      {
+        "size": "6ml",
+        "price": 599,
+        "mrp": 749,
+        "stock": 30
+      },
+      {
+        "size": "12ml",
+        "price": 999,
+        "mrp": 1249,
+        "stock": 28
+      }
+    ],
+    "currency": "INR",
+    "images": [
+      {
+        "url": "/images/placeholder.svg",
+        "alt": "Jannatul Firdaus attar bottle"
+      }
+    ],
+    "seo": {
+      "title": "Jannatul Firdaus | Authentic Attar | Noor Al Attar",
+      "description": "A garden-in-bloom floral: jasmine, rose and lily over soft musk."
+    },
+    "status": "published",
+    "featured": false,
+    "bestseller": false,
+    "giftWrapAvailable": true,
+    "codAvailable": true,
+    "rating": 4.5,
+    "reviewCount": 52,
+    "createdAt": "2026-09-01T10:00:00.000Z",
+    "updatedAt": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "p9",
+    "slug": "mukhallat-dubai",
+    "name": {
+      "en": "Mukhallat Dubai",
+      "ar": "مخلط دبي",
+      "hi": "मुखल्लत दुबई"
+    },
+    "sku": "NAA-009",
+    "category": "amber",
+    "collections": [
+      "diwali-gifting",
+      "wedding-favours",
+      "eid-collection"
+    ],
+    "tags": [
+      "limited",
+      "festive"
+    ],
+    "shortDescription": {
+      "en": "A Gulf-style mukhallat — oud, rose and amber blended into one rich sillage."
+    },
+    "longDescription": {
+      "en": "Inspired by the perfume souks of Dubai. Dense, luxurious and long-lasting — a statement for weddings and Eid nights."
+    },
+    "fragranceFamily": "oriental",
+    "gender": "unisex",
+    "occasions": [
+      "wedding",
+      "festive"
+    ],
+    "intensity": "strong",
+    "notes": {
+      "top": [
+        "Saffron",
+        "Rose"
+      ],
+      "heart": [
+        "Oud",
+        "Ambergris"
+      ],
+      "base": [
+        "Leather",
+        "Musk"
+      ]
+    },
+    "variants": [
+      {
+        "size": "6ml",
+        "price": 1199,
+        "mrp": 1449,
+        "stock": 12
+      },
+      {
+        "size": "12ml",
+        "price": 2199,
+        "mrp": 2599,
+        "stock": 10
+      }
+    ],
+    "currency": "INR",
+    "images": [
+      {
+        "url": "/images/placeholder.svg",
+        "alt": "Mukhallat Dubai attar bottle"
+      }
+    ],
+    "seo": {
+      "title": "Mukhallat Dubai | Authentic Attar | Noor Al Attar",
+      "description": "A Gulf-style mukhallat — oud, rose and amber blended into one rich sillage."
+    },
+    "status": "published",
+    "featured": true,
+    "bestseller": false,
+    "giftWrapAvailable": true,
+    "codAvailable": true,
+    "rating": 4.8,
+    "reviewCount": 89,
+    "createdAt": "2026-09-01T10:00:00.000Z",
+    "updatedAt": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "p10",
+    "slug": "khus-vetiver-attar",
+    "name": {
+      "en": "Khus (Vetiver) Attar",
+      "ar": "خس (فيتيفر)",
+      "hi": "खस अत्तर"
+    },
+    "sku": "NAA-010",
+    "category": "sandal-khus",
+    "collections": [
+      "new-arrivals"
+    ],
+    "tags": [
+      "new"
+    ],
+    "shortDescription": {
+      "en": "Cooling Kannauj khus — the smell of wet earth after the first monsoon rain."
+    },
+    "longDescription": {
+      "en": "Distilled from vetiver roots in Kannauj. A summer classic: earthy, green and wonderfully cooling."
+    },
+    "fragranceFamily": "woody",
+    "gender": "men",
+    "occasions": [
+      "daily",
+      "office"
+    ],
+    "intensity": "medium",
+    "notes": {
+      "top": [
+        "Green Grass"
+      ],
+      "heart": [
+        "Vetiver Root"
+      ],
+      "base": [
+        "Mitti",
+        "Woods"
+      ]
+    },
+    "variants": [
+      {
+        "size": "6ml",
+        "price": 649,
+        "mrp": 799,
+        "stock": 26
+      },
+      {
+        "size": "12ml",
+        "price": 1099,
+        "mrp": 1349,
+        "stock": 21
+      }
+    ],
+    "currency": "INR",
+    "images": [
+      {
+        "url": "/images/placeholder.svg",
+        "alt": "Khus (Vetiver) Attar attar bottle"
+      }
+    ],
+    "seo": {
+      "title": "Khus (Vetiver) Attar | Authentic Attar | Noor Al Attar",
+      "description": "Cooling Kannauj khus — the smell of wet earth after the first monsoon rain."
+    },
+    "status": "published",
+    "featured": false,
+    "bestseller": false,
+    "giftWrapAvailable": true,
+    "codAvailable": true,
+    "rating": 4.6,
+    "reviewCount": 61,
+    "createdAt": "2026-09-01T10:00:00.000Z",
+    "updatedAt": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "p11",
+    "slug": "oud-mubakhar",
+    "name": {
+      "en": "Oud Mubakhar",
+      "ar": "عود مبخّر",
+      "hi": "ऊद मुबख़्खर"
+    },
+    "sku": "NAA-011",
+    "category": "oud",
+    "collections": [
+      "wedding-favours"
+    ],
+    "tags": [
+      "limited"
+    ],
+    "shortDescription": {
+      "en": "Smoked Cambodian oud — dark, resinous and unforgettable."
+    },
+    "longDescription": {
+      "en": "Our most collectible attar. Cambodian oud smoked over bakhoor chips, then rested for months. Made in small batches."
+    },
+    "fragranceFamily": "woody",
+    "gender": "men",
+    "occasions": [
+      "wedding",
+      "festive"
+    ],
+    "intensity": "strong",
+    "notes": {
+      "top": [
+        "Smoke",
+        "Incense"
+      ],
+      "heart": [
+        "Cambodian Oud"
+      ],
+      "base": [
+        "Leather",
+        "Resin",
+        "Amber"
+      ]
+    },
+    "variants": [
+      {
+        "size": "3ml",
+        "price": 1699,
+        "mrp": 1999,
+        "stock": 3
+      },
+      {
+        "size": "6ml",
+        "price": 2999,
+        "mrp": 3499,
+        "stock": 5
+      }
+    ],
+    "currency": "INR",
+    "images": [
+      {
+        "url": "/images/placeholder.svg",
+        "alt": "Oud Mubakhar attar bottle"
+      }
+    ],
+    "seo": {
+      "title": "Oud Mubakhar | Authentic Attar | Noor Al Attar",
+      "description": "Smoked Cambodian oud — dark, resinous and unforgettable."
+    },
+    "status": "published",
+    "featured": false,
+    "bestseller": false,
+    "giftWrapAvailable": true,
+    "codAvailable": true,
+    "rating": 4.9,
+    "reviewCount": 43,
+    "createdAt": "2026-09-01T10:00:00.000Z",
+    "updatedAt": "2026-09-01T10:00:00.000Z"
+  },
+  {
+    "id": "p12",
+    "slug": "noor-gift-set",
+    "name": {
+      "en": "Noor Gift Set (3 × 6ml)",
+      "ar": "طقم نور الهدية",
+      "hi": "नूर गिफ़्ट सेट"
+    },
+    "sku": "NAA-012",
+    "category": "gift-sets",
+    "collections": [
+      "diwali-gifting",
+      "wedding-favours",
+      "eid-collection",
+      "bestsellers"
+    ],
+    "tags": [
+      "bestseller",
+      "festive"
+    ],
+    "shortDescription": {
+      "en": "Musk, Rose and Oud in a hand-packed keepsake box — our most gifted set."
+    },
+    "longDescription": {
+      "en": "Three of our most loved attars in a velvet-lined box with a handwritten card. Ideal for Eid, Diwali, nikah and anniversaries."
+    },
+    "fragranceFamily": "oriental",
+    "gender": "unisex",
+    "occasions": [
+      "festive",
+      "wedding"
+    ],
+    "intensity": "medium",
+    "notes": {
+      "top": [
+        "Rose",
+        "Saffron"
+      ],
+      "heart": [
+        "Musk",
+        "Oud"
+      ],
+      "base": [
+        "Amber"
+      ]
+    },
+    "variants": [
+      {
+        "size": "3 × 6ml",
+        "price": 2499,
+        "mrp": 3199,
+        "stock": 18
+      },
+      {
+        "size": "5 × 6ml",
+        "price": 3999,
+        "mrp": 4999,
+        "stock": 9
+      }
+    ],
+    "currency": "INR",
+    "images": [
+      {
+        "url": "/images/placeholder.svg",
+        "alt": "Noor Gift Set (3 × 6ml) attar bottle"
+      }
+    ],
+    "seo": {
+      "title": "Noor Gift Set (3 × 6ml) | Authentic Attar | Noor Al Attar",
+      "description": "Musk, Rose and Oud in a hand-packed keepsake box — our most gifted set."
+    },
+    "status": "published",
+    "featured": true,
+    "bestseller": true,
+    "giftWrapAvailable": true,
+    "codAvailable": true,
+    "rating": 4.9,
+    "reviewCount": 129,
+    "createdAt": "2026-09-01T10:00:00.000Z",
+    "updatedAt": "2026-09-01T10:00:00.000Z"
+  }
+]

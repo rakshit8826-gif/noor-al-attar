@@ -1,0 +1,99 @@
+[
+  {
+    "id": "col1",
+    "slug": "diwali-gifting",
+    "name": {
+      "en": "Diwali Gifting",
+      "ar": "هدايا ديوالي",
+      "hi": "दीवाली उपहार"
+    },
+    "description": "Light up the festival with attars that feel like a celebration.",
+    "banner": "",
+    "productIds": [
+      "p12",
+      "p6",
+      "p9",
+      "p1"
+    ],
+    "order": 1,
+    "visible": true
+  },
+  {
+    "id": "col2",
+    "slug": "wedding-favours",
+    "name": {
+      "en": "Wedding Favours",
+      "ar": "هدايا الأعراس",
+      "hi": "शादी के उपहार"
+    },
+    "description": "Nikah, shaadi, sangeet — attars for the couple, family and guests.",
+    "banner": "",
+    "productIds": [
+      "p1",
+      "p3",
+      "p9",
+      "p12",
+      "p11"
+    ],
+    "order": 2,
+    "visible": true
+  },
+  {
+    "id": "col3",
+    "slug": "eid-collection",
+    "name": {
+      "en": "Eid Collection",
+      "ar": "مجموعة العيد",
+      "hi": "ईद कलेक्शन"
+    },
+    "description": "Musk, oud and bakhoor for Eid mornings.",
+    "banner": "",
+    "productIds": [
+      "p2",
+      "p6",
+      "p9",
+      "p1",
+      "p12"
+    ],
+    "order": 3,
+    "visible": true
+  },
+  {
+    "id": "col4",
+    "slug": "bestsellers",
+    "name": {
+      "en": "Bestsellers",
+      "ar": "الأكثر مبيعاً",
+      "hi": "बेस्टसेलर"
+    },
+    "description": "The attars our customers reorder again and again.",
+    "banner": "",
+    "productIds": [
+      "p1",
+      "p2",
+      "p3",
+      "p6",
+      "p12"
+    ],
+    "order": 4,
+    "visible": true
+  },
+  {
+    "id": "col5",
+    "slug": "new-arrivals",
+    "name": {
+      "en": "New Arrivals",
+      "ar": "وصل حديثاً",
+      "hi": "नए आगमन"
+    },
+    "description": "Fresh from the distillery.",
+    "banner": "",
+    "productIds": [
+      "p3",
+      "p5",
+      "p10"
+    ],
+    "order": 5,
+    "visible": true
+  }
+]

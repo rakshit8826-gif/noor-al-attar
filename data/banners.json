@@ -1,0 +1,41 @@
+[
+  {
+    "id": "b1",
+    "title": "Diwali Sale — Flat 20% off",
+    "subtitle": "Gift the fragrance of tradition. Use code DIWALI20 on WhatsApp.",
+    "image": "",
+    "ctaText": "Shop Diwali gifts",
+    "ctaLink": "/diwali",
+    "position": "hero",
+    "startDate": "2026-09-01T00:00:00.000Z",
+    "endDate": "2026-11-08T23:59:00.000Z",
+    "active": true,
+    "tone": "amber"
+  },
+  {
+    "id": "b2",
+    "title": "Wedding season, perfumed",
+    "subtitle": "Bulk & favour orders for nikah and shaadi. Custom boxes available.",
+    "image": "",
+    "ctaText": "Wedding favours",
+    "ctaLink": "/wedding",
+    "position": "hero",
+    "startDate": "2026-09-01T00:00:00.000Z",
+    "endDate": "2027-02-28T23:59:00.000Z",
+    "active": true,
+    "tone": "rose"
+  },
+  {
+    "id": "b3",
+    "title": "Oud, from our hands to yours",
+    "subtitle": "Kannauj distillation meets Arabian agarwood — small batches, honest oils.",
+    "image": "",
+    "ctaText": "Explore oud",
+    "ctaLink": "/shop/oud",
+    "position": "hero",
+    "startDate": "2026-01-01T00:00:00.000Z",
+    "endDate": "2027-12-31T23:59:00.000Z",
+    "active": true,
+    "tone": "oud"
+  }
+]
