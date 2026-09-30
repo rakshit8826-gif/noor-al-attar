@@ -2,7 +2,13 @@ import { SignJWT, jwtVerify } from 'jose';
 import { cookies } from 'next/headers';
 
 export const COOKIE = 'noor_admin_session';
-const secret = () => new TextEncoder().encode(process.env.JWT_SECRET || 'dev-only-insecure-secret-change-me');
+const secret = () => {
+  const value = process.env.JWT_SECRET;
+  if (!value && process.env.NODE_ENV === 'production') {
+    throw new Error('JWT_SECRET must be set in production.');
+  }
+  return new TextEncoder().encode(value || 'dev-only-insecure-secret-change-me');
+};
 
 export const signSession = () =>
   new SignJWT({ role: 'admin' }).setProtectedHeader({ alg: 'HS256' }).setIssuedAt().setExpirationTime('7d').sign(secret());
