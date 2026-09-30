@@ -1,7 +1,7 @@
 import type { Product } from './types';
 import { formatINR } from './format';
 
-const DEFAULT_NUMBER = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '919999999999';
+const DEFAULT_NUMBER = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '918826838804';
 const SITE = process.env.NEXT_PUBLIC_SITE_URL || 'https://nooralattar.in';
 
 export const waUrl = (text: string, number = DEFAULT_NUMBER) =>
