@@ -122,7 +122,7 @@ export function Quiz({ products }: { products: Product[] }) {
               ))}
             </div>
             <div className="mt-6 flex flex-wrap justify-center gap-3">
-              <button className="btn-wa" onClick={() => open(`Assalamu Alaikum! My fragrance quiz result: mood ${ans.mood}, occasion ${ans.occasion}, strength ${ans.intensity}.\nSuggested: ${recs.map((r) => r.name.en).join(', ')}.\nPlease guide me.`, { kind: 'quiz', productIds: recs.map((r) => r.id), productNames: recs.map((r) => r.name.en) })}><MessageCircle size={16} />Get recommendations on WhatsApp</button>
+              <button className="btn-wa" onClick={() => open(`My fragrance quiz result: mood ${ans.mood}, occasion ${ans.occasion}, strength ${ans.intensity}.\nSuggested: ${recs.map((r) => r.name.en).join(', ')}.\nPlease guide me.`, { kind: 'quiz', productIds: recs.map((r) => r.id), productNames: recs.map((r) => r.name.en) })}><MessageCircle size={16} />Get recommendations on WhatsApp</button>
               <button className="btn-outline" onClick={() => { setStep(0); setAns({}); }}>Retake</button>
             </div>
           </div>

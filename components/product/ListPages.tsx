@@ -133,7 +133,7 @@ export function WishlistView({ products }: { products: Product[] }) {
       <div className="mb-6 flex flex-wrap items-center justify-between gap-3"><h1 className="text-3xl font-bold">{shared.length ? 'Shared wishlist' : t('nav.wishlist')}</h1>{!shared.length && <button className="btn-outline" onClick={share}><Share2 size={16} />Share wishlist</button>}</div>
       <ProductGrid products={list} />
       <div className="mt-6 flex flex-wrap gap-2">
-        <button className="btn-wa" onClick={() => open(`Assalamu Alaikum! I'd like to order from my wishlist:\n${list.map((p, i) => `${i + 1}. ${p.name.en} (${defaultVariant(p).size} — ${formatINR(defaultVariant(p).price)})`).join('\n')}\n\nName: \nCity: \nPIN: `, { kind: 'cart', productIds: list.map((p) => p.id), productNames: list.map((p) => p.name.en) })}><MessageCircle size={16} />Order wishlist on WhatsApp</button>
+        <button className="btn-wa" onClick={() => open(`I'd like to order from my wishlist:\n${list.map((p, i) => `${i + 1}. ${p.name.en} (${defaultVariant(p).size} — ${formatINR(defaultVariant(p).price)})`).join('\n')}\n\nName: \nCity: \nPIN: `, { kind: 'cart', productIds: list.map((p) => p.id), productNames: list.map((p) => p.name.en) })}><MessageCircle size={16} />Order wishlist on WhatsApp</button>
         {!shared.length && <button className="btn-ghost" onClick={() => ids.forEach((i) => toggle(i))}>Clear</button>}
       </div>
     </div>

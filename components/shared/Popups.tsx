@@ -42,7 +42,7 @@ export function ExitIntent() {
         <p className="font-arabic text-5xl text-accent">نور</p>
         <h2 className="mt-2 text-2xl font-bold">{t('exit.title')}</h2>
         <p className="mt-2 text-mute">{t('exit.body')}</p>
-        <button className="btn-wa mt-5" onClick={() => { open('Assalamu Alaikum! I would like the 10% welcome offer (WELCOME10).', { kind: 'generic' }); setShow(false); }}>{t('exit.cta')}</button>
+        <button className="btn-wa mt-5" onClick={() => { open('I would like the 10% welcome offer (WELCOME10).', { kind: 'generic' }); setShow(false); }}>{t('exit.cta')}</button>
       </div>
     </div>
   );

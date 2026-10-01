@@ -20,7 +20,7 @@ export function ContactForm() {
     setErr({});
     fetch('/api/contact', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(f) }).catch(() => {}); // optional email via Resend
     toast.success('Opening WhatsApp…');
-    open(`Assalamu Alaikum Noor Al Attar 🌙\n\nSubject: ${f.subject}\n${f.message}\n\nName: ${f.name}\nPhone: ${f.phone}${f.email ? `\nEmail: ${f.email}` : ''}${f.city ? `\nCity: ${f.city}` : ''}`, { kind: 'generic' });
+    open(`Subject: ${f.subject}\n${f.message}\n\nName: ${f.name}\nPhone: ${f.phone}${f.email ? `\nEmail: ${f.email}` : ''}${f.city ? `\nCity: ${f.city}` : ''}`, { kind: 'generic' });
   };
   const field = (k: keyof typeof f, label: string, props: React.InputHTMLAttributes<HTMLInputElement> = {}) => (
     <div><label className="label" htmlFor={k}>{label}</label><input id={k} className="input" value={f[k]} onChange={set(k)} aria-invalid={!!err[k]} {...props} />{err[k] && <p className="mt-1 text-xs text-red-600" role="alert">{err[k]}</p>}</div>

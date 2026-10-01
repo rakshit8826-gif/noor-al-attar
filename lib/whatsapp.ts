@@ -8,7 +8,7 @@ export const waUrl = (text: string, number = DEFAULT_NUMBER) =>
   `https://wa.me/${number.replace(/\D/g, '')}?text=${encodeURIComponent(text)}`;
 
 export const genericMessage = () =>
-  process.env.NEXT_PUBLIC_WHATSAPP_DEFAULT_MESSAGE || 'Assalamu Alaikum! I have a question about your attars 🌸';
+  process.env.NEXT_PUBLIC_WHATSAPP_DEFAULT_MESSAGE || 'I have a question about your attars.';
 
 export interface ProductOrderInput {
   product: Product; size: string; price: number; qty: number;
@@ -18,7 +18,6 @@ export interface ProductOrderInput {
 /** Product-page order message (Section 5.5 of the brief). */
 export function productMessage(i: ProductOrderInput) {
   const lines = [
-    'Assalamu Alaikum Noor Al Attar 🌙',
     "I'd like to order:", '',
     `🛍️ Product: ${i.product.name.en}`,
     `📦 Size: ${i.size}`,
@@ -37,7 +36,7 @@ export function productMessage(i: ProductOrderInput) {
 
 export interface CartLine { name: string; slug: string; size: string; price: number; qty: number }
 export function cartMessage(lines: CartLine[], o: { subtotal: number; shipping: number; discount: number; total: number; coupon?: string; giftWrap?: boolean; giftNote?: string }) {
-  const out = ['Assalamu Alaikum Noor Al Attar 🌙', 'I would like to place this order:', ''];
+  const out = ['I would like to place this order:', ''];
   lines.forEach((l, i) => out.push(`${i + 1}. ${l.name} — ${l.size} × ${l.qty} = ${formatINR(l.price * l.qty)}`));
   out.push('', `Subtotal: ${formatINR(o.subtotal)}`);
   if (o.discount) out.push(`Discount (${o.coupon}): −${formatINR(o.discount)}`);
@@ -48,7 +47,7 @@ export function cartMessage(lines: CartLine[], o: { subtotal: number; shipping: 
   return out.join('\n');
 }
 
-export const bulkMessage = () => 'Assalamu Alaikum! I need a bulk order for a wedding / event.\nApprox. quantity: \nEvent date: \nCity: ';
-export const trackMessage = (id: string) => `Assalamu Alaikum! Track my order: ${id}`;
-export const notifyMessage = (name: string, size: string) => `Assalamu Alaikum! Please notify me when ${name} (${size}) is back in stock.`;
-export const optInMessage = (phone: string) => `Assalamu Alaikum! Please add me to your WhatsApp list for offers and new arrivals.${phone ? `\nMy number: ${phone}` : ''} (10% off first order)`;
+export const bulkMessage = () => 'I need a bulk order for a wedding / event.\nApprox. quantity: \nEvent date: \nCity: ';
+export const trackMessage = (id: string) => `Track my order: ${id}`;
+export const notifyMessage = (name: string, size: string) => `Please notify me when ${name} (${size}) is back in stock.`;
+export const optInMessage = (phone: string) => `Please add me to your WhatsApp list for offers and new arrivals.${phone ? `\nMy number: ${phone}` : ''} (10% off first order)`;

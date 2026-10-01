@@ -31,7 +31,7 @@ export default async function Post({ params }: { params: { slug: string } }) {
           return <div key={i}><h2 id={slugify(h)} className="pb-2 pt-4 text-2xl font-bold">{h}</h2>{rest.length > 0 && <p>{rest.join(' ')}</p>}</div>;
         })}
       </div>
-      <div className="mt-10 flex flex-wrap items-center justify-between gap-4 border-t border-gold-500/30 pt-6"><ShareButtons title={p.title} /><WhatsAppButton label="Ask us on WhatsApp" message={`Assalamu Alaikum! I read "${p.title}" and have a question.`} /></div>
+      <div className="mt-10 flex flex-wrap items-center justify-between gap-4 border-t border-gold-500/30 pt-6"><ShareButtons title={p.title} /><WhatsAppButton label="Ask us on WhatsApp" message={`I read "${p.title}" and have a question.`} /></div>
       {related.length > 0 && <div className="mt-12"><h2 className="mb-4 text-xl font-bold">Keep reading</h2><div className="grid gap-3 sm:grid-cols-2">{related.map((r) => <Link key={r.id} href={`/blog/${r.slug}`} className="card p-4 hover:text-accent"><span className="font-semibold">{r.title}</span></Link>)}</div></div>}
     </article>
   );
