@@ -72,7 +72,12 @@ export function Hero({ banners }: { banners: Banner[] }) {
           <div className="relative overflow-hidden rounded-t-[999px] rounded-b-2xl border border-gold-500/50 shadow-goldlg">
             <AnimatePresence mode="wait">
               <motion.div key={s.id} initial={{ opacity: 0, scale: 1.04 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0 }} transition={{ duration: 0.6 }} className="aspect-[4/5]">
-                <BottleArt category={TONE_CAT[s.tone] || 'oud'} />
+                {s.image ? (
+                  // eslint-disable-next-line @next/next/no-img-element
+                  <img src={s.image} alt={s.title || 'Noor Al Attar'} className="h-full w-full object-cover" />
+                ) : (
+                  <BottleArt category={TONE_CAT[s.tone] || 'oud'} />
+                )}
               </motion.div>
             </AnimatePresence>
           </div>
